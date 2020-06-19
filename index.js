@@ -40,7 +40,7 @@ const trigger = [
     //0 
     ["hi", "hey", "hello"],
     //1
-    ["how are you", "how are things"],
+    ["how are you", "mark","how are things"],
     //2
     ["what is going on", "what is up"],
     //3
@@ -55,7 +55,6 @@ const trigger = [
     ["bye", "good bye", "goodbye"]
     ];
     //8
-    ["what's your name", "what is your name"]
     
     const reply = [
     //0 
@@ -64,12 +63,14 @@ const trigger = [
     [
         "Fine... how are you?",
         "Pretty well, how are you?",
-        "Fantastic, how are you?"
+        "Fantastic, how are you?",
+        "Essein"
       ],
     //2
     [
         "Nothing much",
-        "Exciting things!"
+        "Exciting things!",
+        "essien"
       ],
     //3
     ["Glad to hear it"],
@@ -83,7 +84,6 @@ const trigger = [
     ["Goodbye", "See you later"],
     ];
     //8
-    ["my name is max", "i am max"];
     
     const alternative = [
       "Same",
