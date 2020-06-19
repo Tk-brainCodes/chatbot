@@ -61,9 +61,6 @@ const trigger = [
     ["Hello!", "Hi!", "Hey!", "Hi there!"], 
     //1
     [
-        "Fine... how are you?",
-        "Pretty well, how are you?",
-        "Fantastic, how are you?",
         "Essein"
       ],
     //2
